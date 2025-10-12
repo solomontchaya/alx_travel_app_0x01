@@ -1,4 +1,3 @@
-"""markdown
 # ALX Travel App - Phase 0: Database Modeling and Data Seeding
 
 A small Django application demonstrating database modeling, API serialization, and data seeding for travel listings, bookings, and reviews.
